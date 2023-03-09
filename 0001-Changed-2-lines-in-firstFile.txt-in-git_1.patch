@@ -1,0 +1,24 @@
+From 88ad5229cbeda16b1a669dc318f215fb9731b729 Mon Sep 17 00:00:00 2001
+From: abboskhan <abbosxon28012004@gmail.com>
+Date: Thu, 9 Mar 2023 12:51:23 +0500
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f239125..15ce2e0 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -6,5 +6,5 @@ first_file_5
+ first_file_6
+ first_file_7
+ first_file_8
+-first_file_9
+-first_file_10
++first_file_9_changed_for_1
++first_file_10_changed_for_1
+-- 
+2.39.1.windows.1
+
