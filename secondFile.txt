@@ -6,5 +6,10 @@ second_file_5
 second_file_6
 second_file_7
 second_file_8
+<<<<<<< HEAD
 second_file_9_changed_1
 second_file_10_changed_1
+=======
+second_file_9_changed
+second_file_10_changed
+>>>>>>> git_2
